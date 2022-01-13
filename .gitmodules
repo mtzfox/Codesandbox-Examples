@@ -1,3 +1,6 @@
 [submodule "React-Uncontrolled-Input-Error"]
 	path = React-Uncontrolled-Input-Error
 	url = https://github.com/redfoxseattle/React-Uncontrolled-Input-Error.git
+[submodule "React-Controlled-Input"]
+	path = React-Controlled-Input
+	url = https://github.com/redfoxseattle/React-Controlled-Input.git
